@@ -1,6 +1,7 @@
 # 🐍 Python If–Else Programs
 
-This repository contains 20 real-world Python programs built using simple if–else logic.
+This repository contains 20 real-world Python programs built using simple if–else logic. These scenarios are based on daily life logic.
+# it is for understand how decision-making works in programming.
 
 📘 Topics Covered
 
