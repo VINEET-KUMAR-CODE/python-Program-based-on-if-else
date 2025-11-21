@@ -27,7 +27,8 @@ Total: 20 practical programs
 
 # it is for understand how Python decisions work in real situations.
 --------------------------------------------------------------------------------------
-# 🚀 What This Repo Offers
+
+# 🚀 What’s Included
 
 ✔ Real-world scenario-based programs
 
@@ -38,4 +39,10 @@ Total: 20 practical programs
 ✔ Clean, readable, and well-commented code
 
 ✔ Perfect for interview prep & concept revision
+
+  Real-world inspired automation programs
+
+  Error handling & input validation
+
+  Clean and readable Python code
 
