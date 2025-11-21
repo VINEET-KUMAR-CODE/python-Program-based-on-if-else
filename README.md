@@ -8,6 +8,7 @@ This repository contains 20 real-world Python programs built using simple if–e
 # it is for understand how decision-making works in programming.
 ----------------------------------------------------------------------------------------------------------------------------------------
 # 📘 Program Themes
+Total: 20 practical programs
 
 # These 20 programs cover:
 
@@ -23,7 +24,6 @@ This repository contains 20 real-world Python programs built using simple if–e
 
 ⏳ Real-world logic building (e.g., hospital triage, parking system, spam filter basics)
 
-Total: 20 practical programs 🎯
 
 # it is for understand how Python decisions work in real situations.
 --------------------------------------------------------------------------------------
