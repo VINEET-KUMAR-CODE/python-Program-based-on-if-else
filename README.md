@@ -42,3 +42,5 @@ Flight Fare Discount
 
 Electricity Bill Calculator
 Total: 20 practical programs 🎯
+
+it is for understand how Python decisions work in real situations.
