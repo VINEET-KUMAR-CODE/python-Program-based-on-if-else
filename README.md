@@ -45,4 +45,13 @@ Total: 20 practical programs
   Error handling & input validation
 
   Clean and readable Python code
+----------------------------------------------------------------
+# 📝 Final Note
+
+This repository is a small but meaningful step in my continuous journey of mastering Python and problem-solving. Each program here reflects consistent practice, curiosity, and the desire to think like a real developer.
+
+If you find this helpful, feel free to ⭐ star the repository or share your suggestions.
+Your feedback helps me grow, learn, and build even better projects.
+
+Thanks for visiting 
 
