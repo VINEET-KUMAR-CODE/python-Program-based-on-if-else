@@ -30,7 +30,12 @@ Total: 20 practical programs
 # 🚀 What This Repo Offers
 
 ✔ Real-world scenario-based programs
+
 ✔ Covers loops, conditions, validation, logic, and automation
+
 ✔ Simple → Medium → Smart tasks for progressive learning
+
 ✔ Clean, readable, and well-commented code
+
 ✔ Perfect for interview prep & concept revision
+
